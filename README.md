@@ -1,2 +1,2 @@
 # monopoly
-A Python implementation of the game monopoly.
+A Java implementation of the game monopoly.
